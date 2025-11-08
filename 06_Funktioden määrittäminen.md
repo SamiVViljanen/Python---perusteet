@@ -60,7 +60,9 @@ Python tarkistaa:
 
 **HUOM!** Älä suotta takerru moduuli asiaan, jos se tuntuu epäselvältä. Asiaa käydään myöhemmin tarkemmin läpi – halusin vain mainita sen, koska se on tärkeä syy, miksi tätä rakennetta käytetään.
  
-## YhteenvetoFunktiot ovat tapa jakaa koodi järkeviin, uudelleenkäytettäviin osiin. Ne tekevät ohjelmasta luettavamman, siistimmän ja helpommin ylläpidettävän.
+## Yhteenveto
+
+Funktiot ovat tapa jakaa koodi järkeviin, uudelleenkäytettäviin osiin. Ne tekevät ohjelmasta luettavamman, siistimmän ja helpommin ylläpidettävän.
 
 main()-funktio on käytännön tapa kertoa:
 
