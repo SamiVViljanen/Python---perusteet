@@ -11,6 +11,7 @@ Lyhyt oppimateriaali Pythonin perusteista. Materiaali on tarkoitettu itseopiskel
 6. [Funktioiden määrittäminen](Aiheet/06_Funktioden%20määrittäminen.md)
 7. [Oliot (luokat ja instanssit)](Aiheet/07_oliot.md)
 8. [Moduulit ja kirjastot](Aiheet/08-moduulit_ja_kirjastot.md)
+9. [Poikkeukset ja virheiden käsittely](Aiheet/09-poikkeukset.md)
 
 ## Tavoite
 Tarjota selkeät ja kattavat esimerkit, joiden avulla oppii:
