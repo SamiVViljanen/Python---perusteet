@@ -75,7 +75,9 @@ Toyota vuodelta 2020 on nyt liikkeellä!
 -	**auto1** ja **auto2** ovat _Auto_-luokan yksittäisiä ilmentymiä eli olioita 
 
 
-## @dataclass – helppo tapa luoda olioitaPythonissa on valmiina @dataclass, joka tekee luokkien kirjoittamisesta helpompaa, jos ne sisältävät vain tietoa.
+## @dataclass – helppo tapa luoda olioita
+
+Pythonissa on valmiina @dataclass, joka tekee luokkien kirjoittamisesta helpompaa, jos ne sisältävät vain tietoa.
 Dataclass luo automaattisesti mm. init, repr ja eq -metodit puolestasi:
 
 ```Python
