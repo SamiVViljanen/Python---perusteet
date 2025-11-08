@@ -41,7 +41,8 @@ class CamelCase:
   def snake_case():
 ``` 
  
-### Esimerkki yksinkertaisesta luokasta```Python
+### Esimerkki yksinkertaisesta luokasta
+```Python
 class Auto:
   def __init__(self, merkki, vuosimalli):
     self.merkki = merkki
@@ -99,7 +100,8 @@ Henkilö(nimi=’Maija’, ikä=25)
 
 ## Class esimerkki: Timestamp
 
-Tämä luokka mallintaa yksinkertaista aikaleimaa:```Python
+Tämä luokka mallintaa yksinkertaista aikaleimaa:
+```Python
 from datetime import datetime
 
 class Timestamp:
