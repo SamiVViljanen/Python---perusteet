@@ -119,7 +119,7 @@ Aikaleima: 2025-11-08 21:08:26.755381   ( eli juuri sen hetkinen aika )
 -	Vähentää virheitä ja parantaa koodin rakennetta suurissa projekteissa
 
 
-OLIOT, FUNKTIOT JA MODUULIT
+# OLIOT, FUNKTIOT JA MODUULIT
 
 | RAKENNE  | TARKOITUS   |
 |-------------|-------------|
