@@ -8,7 +8,7 @@ Pythonissa funktioiden määrittäminen (def, tulee sanasta define) on tapa jär
 
 Esimerkiksi:
 
-```
+```Python
 def summa(a, b):
   return a + b
 ```
@@ -17,7 +17,7 @@ Tämä määrittää ”ohjeen” tai ”pienen ohjelman”, joka voidaan suorit
 
 Esimerkiksi:
 
-```
+```Python
 def summa(a, b):    # funktio määritetään vain kerran
   return a + b
 
@@ -35,7 +35,7 @@ Pythonissa main()-funktiota käytetään usein ohjelman pääsisäänkäyntinä,
 
 Python ei kuitenkaan automaattisesti aloita suorittamista main()-funktiosta, vaan ohjelmoijat käyttävät sitä tapana selkeästi määrittää aloituskohta.
 
-```
+```Python
 def main():
   print("Hei maailma!")
 
