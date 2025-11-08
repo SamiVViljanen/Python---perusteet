@@ -121,16 +121,14 @@ while i < 5:
 
 # WHILE vs FOR
 
-FOR-silmukka	                      WHILE-silmukka
-Käytetään, kun tiedetään montako kertaa toistetaan tai käydään läpi lista	Käytetään, kun ei tiedetä toistojen määrää etukäteen
-Esim. ” for i in range(5): “	esim. “ while i < 5: “
-Käy läpi kokoelman (lista, merkkijono…)	Toistaa, kunnes ehto muuttuu epätodeksi
-Helppo ja turvallinen	Joustava, mutta voi jäädä helposti ikuiseen silmukkaan
+| FOR-silmukka | WHILE-silmukka |
+|--------------|----------------|
+| Käytetään, kun tiedetään montako kertaa toistetaan tai käydään läpi lista | Käytetään, kun ei tiedetä toistojen määrää etukäteen |
+| Esim. `for i in range(5):` | Esim. `while i < 5:` |
+| Käy läpi kokoelman (lista, merkkijono…) | Toistaa, kunnes ehto muuttuu epätodeksi |
+| Helppo ja turvallinen | Joustava, mutta voi jäädä helposti ikuiseen silmukkaan |
 
-
-
-
-MIKSI WHILE-SILMUKKA ON HYÖDYLLINEN?
+# MIKSI WHILE-SILMUKKA ON HYÖDYLLINEN?
 
 -	Sopii tilanteisiin, joissa ei tiedetä toistojen määrää
 
@@ -141,9 +139,7 @@ MIKSI WHILE-SILMUKKA ON HYÖDYLLINEN?
 -	Tekee ohjelmista vuorovaikutteisempia ja joustavampia
 
 
-
-
-YHTEENVETO
+# YHTEENVETO
 
 While-silmukka on toistorakenne, joka jatkuu niin kauan kuin ehto on tosi. Se antaa ohjelmoijalle mahdollisuuden hallita ohjelman kulkua tarkasti.
 
