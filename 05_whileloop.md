@@ -13,8 +13,6 @@
 
 ## Miksi käytetään while-silmukkaa?	
 
-## Miksi käytetään while-silmukkaa?	
-
 Pythonissa while-silmukka (while-loop) on toinen tapa toistaa koodia useita kertoja.
 Sitä käytetään erityisesti silloin, kun ei vielä tiedetä montako kertaa toistoja tarvitaan, vaan halutaan toistaa jotain niin kauan kuin ehto on tosi (True).
 
@@ -51,7 +49,8 @@ Silmukka jatkuu niin kauan, kun muuttuja i on pienempi kuin 5.
  
 ## Esimerkkejä while-silmukan käytöstä
 
-### Toistaminen kunnes ehto täyttyy```Python
+### Toistaminen kunnes ehto täyttyy
+```Python
 luku = 0
 while luku < 10:
   print(luku)
