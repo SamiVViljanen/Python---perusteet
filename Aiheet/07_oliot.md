@@ -41,7 +41,8 @@ class CamelCase:
   def snake_case():
 ``` 
  
-### Esimerkki yksinkertaisesta luokasta```Python
+### Esimerkki yksinkertaisesta luokasta
+```Python
 class Auto:
   def __init__(self, merkki, vuosimalli):
     self.merkki = merkki
@@ -74,7 +75,9 @@ Toyota vuodelta 2020 on nyt liikkeellä!
 -	**auto1** ja **auto2** ovat _Auto_-luokan yksittäisiä ilmentymiä eli olioita 
 
 
-## @dataclass – helppo tapa luoda olioitaPythonissa on valmiina @dataclass, joka tekee luokkien kirjoittamisesta helpompaa, jos ne sisältävät vain tietoa.
+## @dataclass – helppo tapa luoda olioita
+
+Pythonissa on valmiina @dataclass, joka tekee luokkien kirjoittamisesta helpompaa, jos ne sisältävät vain tietoa.
 Dataclass luo automaattisesti mm. init, repr ja eq -metodit puolestasi:
 
 ```Python
@@ -99,7 +102,8 @@ Henkilö(nimi=’Maija’, ikä=25)
 
 ## Class esimerkki: Timestamp
 
-Tämä luokka mallintaa yksinkertaista aikaleimaa:```Python
+Tämä luokka mallintaa yksinkertaista aikaleimaa:
+```Python
 from datetime import datetime
 
 class Timestamp:
@@ -138,7 +142,9 @@ Aikaleima: 2025-11-08 21:08:26.755381   ( eli juuri sen hetkinen aika )
 | Moduuli (tiedosto) | Kokoaa useita luokkia ja funktioita yhteen ohjelmaan|
 
  
-## Yhteenveto**Oliot ovat ohjelmoinnin rakennuspalikoita**¸ joiden avulla:
+## Yhteenveto
+
+**Oliot ovat ohjelmoinnin rakennuspalikoita**¸ joiden avulla:
 -	Yhdistää tieto ja toiminta
 
 -	hallitaan suuria kokonaisuuksia järkevästi

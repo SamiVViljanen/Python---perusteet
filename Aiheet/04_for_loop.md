@@ -13,8 +13,6 @@
 
 ## Miksi käytetään for-silmukkaa?
 
-## Miksi käytetään for-silmukkaa?
-
 Pythonissa **for-silmukka** (for-loop) on tapa **toistaa sama koodi monta kertaa** helposti ja selkeästi.
 Sen avulla voidaan käydä läpi esimerkiksi lista, merkkijono tai mikä tahansa joukko asioita - ilman että tarvitsee kirjoittaa sama koodi moneen kertaan.
 
