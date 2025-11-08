@@ -3,16 +3,22 @@
 Lyhyt oppimateriaali Pythonin perusteista. Materiaali on tarkoitettu itseopiskeluun.
 
 ## Sisältö
-- [01 — For-silmukka](01-for_loop.md)
-- [02 — While-silmukka](02-whileloop.md)
-- [03 — Funktioiden määrittäminen](03-funktioiden_maarittaminen.md)
-- [04 — Oliot (luokat ja instanssit)](04-oliot.md)
+1. [Komennot ja muuttujat](Aiheet/01-komennot_ja_muuttujat.md)
+2. [Tietojen käsittely](Aiheet/02_tietojen_kasittely.md)
+3. [Ehtolauseet](Aiheet/03-ehtolauseet.md)
+4. [For-silmukka](Aiheet/04_for_loop.md)
+5. [While-silmukka](Aiheet/05_whileloop.md)
+6. [Funktioiden määrittäminen](Aiheet/06_Funktioden%20määrittäminen.md)
+7. [Oliot (luokat ja instanssit)](Aiheet/07_oliot.md)
 
 ## Tavoite
-Tarjota selkeät ja lyhyet esimerkit, joiden avulla oppii:
-- toistot (for, while)
-- funktioiden määrittely ja käyttö
-- perusoliot: luokan määrittely, __init__ ja metodit
+Tarjota selkeät ja kattavat esimerkit, joiden avulla oppii:
+- Pythonin peruskomennot ja muuttujat
+- Tietotyypit ja niiden käsittely
+- Ehtolauseet ja päätöksenteko
+- Toistot (for, while)
+- Funktioiden määrittely ja käyttö
+- Olioohjelmointi: luokan määrittely, __init__, metodit ja @dataclass
 
 ## Kehitysehdotuksia / jatkotoimet
 - Lisätä `LICENSE` (esim. MIT tai CC-BY)
