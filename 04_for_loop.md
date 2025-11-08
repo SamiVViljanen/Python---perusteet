@@ -4,7 +4,7 @@ Pythonissa **for-silmukka**(for-loop) on tapa **toistaa sama koodi monta kertaa*
 Sen avulla voidaan käydä läpi esimerkiksi lista, merkkijono tai mikä tahansa joukko asioita - ilman että tarvitsee kirjoittaa sama koodi moneen kertaan.
 
 Esimerkiksi:
-``` Python
+``` python
 for i in range(5):
   print("Hei maailma!")
 ```
