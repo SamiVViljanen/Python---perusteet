@@ -1,6 +1,21 @@
-# MIKSI KÄYTETÄÄN FOR-LOOP (FOR-SILMUKKA)?
+# For-silmukka (For Loop)
 
-Pythonissa **for-silmukka**(for-loop) on tapa **toistaa sama koodi monta kertaa** helposti ja selkeästi.
+## Sisällysluettelo
+1. [Miksi käytetään for-silmukkaa?](#miksi-käytetään-for-silmukkaa)
+2. [Mitä tässä tapahtuu?](#mitä-tässä-tapahtuu)
+3. [Esimerkkejä for-silmukan käytöstä](#esimerkkejä-for-silmukan-käytöstä)
+4. [Break ja continue](#break-ja-continue)
+5. [Miksi for-silmukka on hyödyllinen?](#miksi-for-silmukka-on-hyödyllinen)
+6. [For vs while](#for-vs-while)
+7. [Yhteenveto](#yhteenveto)
+
+---
+
+## Miksi käytetään for-silmukkaa?
+
+## Miksi käytetään for-silmukkaa?
+
+Pythonissa **for-silmukka** (for-loop) on tapa **toistaa sama koodi monta kertaa** helposti ja selkeästi.
 Sen avulla voidaan käydä läpi esimerkiksi lista, merkkijono tai mikä tahansa joukko asioita - ilman että tarvitsee kirjoittaa sama koodi moneen kertaan.
 
 Esimerkiksi:
@@ -18,7 +33,7 @@ Hei maailma!
 Hei maailma!
 ```
 
-# MITÄ TÄSSÄ TAPAHTUU?
+## Mitä tässä tapahtuu?
 
 - For aloittaa silmukan ("toista seuraava lohko")
 - i on muuttuja, joka saa eri arvon joka kierroksella
@@ -26,9 +41,9 @@ Hei maailma!
 - print("Hei maailma!") suoritetaan jokaisella kierroksella
 
 
-# ESIMERKKEJÄ FOR-LOOPIN KÄYTÖSTÄ
+## Esimerkkejä for-silmukan käytöstä
 
-## _LISTAN LÄPIKÄYNTI_
+### Listan läpikäynti
 ``` Python
 hedelmät = ["omena", "banaani", "appelsiini"]
 
@@ -43,7 +58,7 @@ appelsiini
 ```
 Tässä silmukka käy siis listan läpi **alkion kerrallaan** ja suorittaa print-komennon jokaiselle.
 
-## _MERKKIJONON LÄPIKÄYNTI_
+### Merkkijonon läpikäynti
 ```Python
 sana = "Python"
 for kirjain in sana:
@@ -59,7 +74,7 @@ o
 n
 ```
 
-## _INDEXIN KÄYTTÖ ENUMERATE():LLA_
+### Indexin käyttö enumerate():lla
 ```Python
 hedelmät = ["omena", "banaani", "appelsiini"]
 for index, hedelmä in enumerate(hedelmät):
@@ -74,7 +89,7 @@ Tulostaa:
 
 enumerate() on hyödyllinen, kun tarvitset sekä alkion, että sen sijainnin(index).
 
-## _RANGE() ERI TAVOILLA_
+### Range() eri tavoilla
 
 ```Python
 range(5)        # -> 0, 1, 2, 3, 5 (oletuksena alkaa 0:sta)
@@ -83,7 +98,8 @@ range(0, 10, 2) # -> 0, 2, 4, 6, 8 (joka toinen luku)
 ```
 
 
-** _BREAK JA CONTINUE_**
+## Break ja continue
+
 **break** - lopettaa silmukan kesken:
 ```Python
 for i in range(10):
@@ -101,7 +117,7 @@ for i in range(5):
 ```
 
 
-# MIKSI FOR-LOOP ON HYÖDYLLINEN?
+## Miksi for-silmukka on hyödyllinen?
 
 - Toistaa saman toiminnon monta kertaa ilman turhaa koodin kopiointia
 - Tekee koodista siistin ja helposti luettavan
@@ -109,13 +125,13 @@ for i in range(5):
 - Vähentää virheiden määrää (ei unohdu yksittäisiä vaiheita)
 
 
-# FOR vs WHILE
+## For vs while
 
 - **FOR-loop** käytetään, kun **tiedetään montako kierrosta** tehdään, tai kun käydään läpi jokin kokoelma (lista, merkkijono).
 
 - **WHILE-loop** käytetään, kun **toistetaan kunnes jokin ehto täytyy** (esim. kunnes käyttäjä lopettaa)
 
-# YHTEENVETO
+## Yhteenveto
 
 For-silmukka on ohjelmoinnin **perustyökalu**, joka auttaa:
 - toistamaan toimintoja automaattisesti
@@ -123,6 +139,6 @@ For-silmukka on ohjelmoinnin **perustyökalu**, joka auttaa:
 - kirjoittamaan selkeämpää ja tehokkaampaa koodia
 
 
-## MUISTA
+### Muista
 
 Jos sinun täytyy tehdä jotain "monta kertaa" for-loop on usein paras ratkaisu!

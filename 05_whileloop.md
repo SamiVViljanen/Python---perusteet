@@ -1,4 +1,19 @@
-# MIKSI KÄYTETÄÄN WHILE-SILMUKKAA?	
+# While-silmukka (While Loop)
+
+## Sisällysluettelo
+1. [Miksi käytetään while-silmukkaa?](#miksi-käytetään-while-silmukkaa)
+2. [Mitä tässä tapahtuu?](#mitä-tässä-tapahtuu)
+3. [Esimerkkejä while-silmukan käytöstä](#esimerkkejä-while-silmukan-käytöstä)
+4. [Break ja continue while-silmukassa](#break-ja-continue-while-silmukassa)
+5. [While vs for](#while-vs-for)
+6. [Miksi while-silmukka on hyödyllinen?](#miksi-while-silmukka-on-hyödyllinen)
+7. [Yhteenveto](#yhteenveto)
+
+---
+
+## Miksi käytetään while-silmukkaa?	
+
+## Miksi käytetään while-silmukkaa?	
 
 Pythonissa while-silmukka (while-loop) on toinen tapa toistaa koodia useita kertoja.
 Sitä käytetään erityisesti silloin, kun ei vielä tiedetä montako kertaa toistoja tarvitaan, vaan halutaan toistaa jotain niin kauan kuin ehto on tosi (True).
@@ -24,7 +39,7 @@ Hei maailma!
 
 Silmukka jatkuu niin kauan, kun muuttuja i on pienempi kuin 5.
 
-# MITÄ TÄSSÄ TAPAHTUU?
+## Mitä tässä tapahtuu?
 
 -	while aloittaa silmukan, joka jatkuu niin kauan kuin ehto on tosi
 
@@ -33,12 +48,10 @@ Silmukka jatkuu niin kauan, kun muuttuja i on pienempi kuin 5.
 -	i += 1 kasvattaa muuttujan arvoa, jotta silmukka lopulta loppuu
 
 ⚠️⚠️⚠️ Jos ehtoa ei koskaan todeta epätodeksi, syntyy ikuinen silmukka (infinite loop)
- 
-# ESIMERKKEJÄ WHILE-SILMUKAN KÄYTÖSTÄ
+ 
+## Esimerkkejä while-silmukan käytöstä
 
-## _TOISTAMINEN KUNNES EHTO TÄYTTYY_
-
-```Python
+### Toistaminen kunnes ehto täyttyy```Python
 luku = 0
 while luku < 10:
   print(luku)
@@ -53,7 +66,7 @@ Tulostaa:
 8
 ```
 
-## _KÄYTTÄJÄN SYÖTTEEN TARKISTUS_
+### Käyttäjän syötteen tarkistus
 
 ```Python
 salasana = ""
@@ -66,7 +79,7 @@ print("Tervetuloa!")
 Ohjelma pyytää salasanaa niin kauan, kunnes käyttäjä syöttää oikean vastauksen.
 
 
-## _WHILE TRUE – IKUINEN SILMUKKA VALIKKOJEN KANSSA_
+### While True – ikuinen silmukka valikkojen kanssa
 
 ```Python
 while True:
@@ -85,9 +98,9 @@ Tämä on yleisin tapa käyttää while-silmukkaa valikkojen ja vuorovaikutteist
 Silmukka jatkuu loputtomiin, kunnes break – komento suoritetaan.
 
 
-# BREAK JA CONTINUE WHILE-SILMUKASSA
+## Break ja continue while-silmukassa
 
-## _BREAK – LOPETTAA SILMUKAN KESKEN_
+### Break – lopettaa silmukan kesken
 
 ```Python
 while True:
@@ -96,10 +109,10 @@ while True:
       break
 ```
 
-➡️ Silmukka päättyy heti, kun käyttäjä vastaa ”k”
+➡️ Silmukka päättyy heti, kun käyttäjä vastaa "k"
 
 
-## _CONTINUE – OHITTAA LOPPUOSAN JA SIIRTYY SEURAAVAAN KIERROKSEEN_
+### Continue – ohittaa loppuosan ja siirtyy seuraavaan kierrokseen
 
 ```Python
 i = 0
@@ -119,7 +132,7 @@ while i < 5:
 ```
 
 
-# WHILE vs FOR
+## While vs for
 
 | FOR-silmukka | WHILE-silmukka |
 |--------------|----------------|
@@ -128,7 +141,7 @@ while i < 5:
 | Käy läpi kokoelman (lista, merkkijono…) | Toistaa, kunnes ehto muuttuu epätodeksi |
 | Helppo ja turvallinen | Joustava, mutta voi jäädä helposti ikuiseen silmukkaan |
 
-# MIKSI WHILE-SILMUKKA ON HYÖDYLLINEN?
+## Miksi while-silmukka on hyödyllinen?
 
 -	Sopii tilanteisiin, joissa ei tiedetä toistojen määrää
 
@@ -136,10 +149,10 @@ while i < 5:
 
 -	Hyödyllinen erityisesti käyttäjän syötteiden käsittelyssä
 
--	Tekee ohjelmista vuorovaikutteisempia ja joustavampia
+- Tekee ohjelmista vuorovaikutteisempia ja joustavampia
 
 
-# YHTEENVETO
+## Yhteenveto
 
 While-silmukka on toistorakenne, joka jatkuu niin kauan kuin ehto on tosi. Se antaa ohjelmoijalle mahdollisuuden hallita ohjelman kulkua tarkasti.
 

@@ -1,5 +1,18 @@
 # Komennot ja muuttujat
 
+## Sisällysluettelo
+1. [Mikä on muuttuja?](#mikä-on-muuttuja)
+2. [Nimeämiskäytännöt](#nimeämiskäytännöt)
+3. [Peruskomennot: tulostus ja syöte](#peruskomennot-tulostus-ja-syöte)
+4. [Aritmeettiset operaatiot ja muut operaattorit](#aritmeettiset-operaatiot-ja-muut-operaattorit)
+5. [Lyhennetyt sijoitukset](#lyhennetyt-sijoitukset)
+6. [Tyypin muunnokset](#tyypin-muunnokset)
+7. [Kommentit ja selitykset](#kommentit-ja-selitykset)
+8. [Yleisiä virheitä ja sudenkuoppia](#yleisiä-virheitä-ja-sudenkuoppia)
+9. [Lyhyt käytännön esimerkki](#lyhyt-käytännön-esimerkki)
+
+---
+
 Tässä lyhyt opas Pythonin peruskomennoista (lauseista) ja muuttujista. Materiaalissa on selkeät esimerkit ja odotetut tulosteet.
 
 ## Mikä on muuttuja?
@@ -52,7 +65,7 @@ print(a * b)  # 14
 print(a ** b) # 49
 ```
 
-## Lyhennetyt sijoitukset (augmented assignment)
+## Lyhennetyt sijoitukset
 
 Kätevä tapa päivittää samaa muuttujaa:
 
@@ -92,7 +105,7 @@ x = 5  # tässä on kommentti
 
 - Vältä ylikirjoittamasta sisäänrakennettuja nimiä (esim. älä tee `list = [1, 2]`)
 
-- MMuista antaa `input()`-palautus tarvittaessa (esim. `int()`-funktiolla).
+- Muista antaa `input()`-palautus tarvittaessa (esim. `int()`-funktiolla).
 
 ## Lyhyt käytännön esimerkki
 ```python

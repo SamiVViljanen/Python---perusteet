@@ -1,11 +1,26 @@
-# MIKSI KÄYTETÄÄN OLIOITA (CLASS/OBJECTS)?
+# Oliot (Classes/Objects)
+
+## Sisällysluettelo
+1. [Miksi käytetään olioita?](#miksi-käytetään-olioita)
+2. [Mitä olio tarkoittaa?](#mitä-olio-tarkoittaa)
+3. [@dataclass – helppo tapa luoda olioita](#dataclass--helppo-tapa-luoda-olioita)
+4. [Class esimerkki: Timestamp](#class-esimerkki-timestamp)
+5. [Miksi olioita kannattaa käyttää?](#miksi-olioita-kannattaa-käyttää)
+6. [Oliot, funktiot ja moduulit](#oliot-funktiot-ja-moduulit)
+7. [Yhteenveto](#yhteenveto)
+
+---
+
+## Miksi käytetään olioita?
+
+## Miksi käytetään olioita?
 
 Pythonissa oliot (classes, objects) ovat tapa **järjestää tietoa ja siihen liittyvää toimintaa yhteen paikkaan**.
 Olioita käytetään, kun halutaan mallintaa asioita ohjelmassa samaan tapaan kuin oikeassa maailmassa:
 esimerkiksi **auto, opiskelija, tuote tai aikaleima(timestamp)** voidaan kaikki esittää olioina.
 
 
-# MITÄ OLIO TARKOITTAA?
+## Mitä olio tarkoittaa?
 
 Olio on ”**paketti**” jossa on:
 -	tietoa (muuttujat eli attribuutit)
@@ -25,10 +40,8 @@ class CamelCase:
 
   def snake_case():
 ``` 
- 
-## _ESIMERKKI YKSINKERTAISESTA LUOKASTA_
-
-```Python
+ 
+### Esimerkki yksinkertaisesta luokasta```Python
 class Auto:
   def __init__(self, merkki, vuosimalli):
     self.merkki = merkki
@@ -50,7 +63,7 @@ Volvo vuodelta 2015 on nyt liikkeellä!
 Toyota vuodelta 2020 on nyt liikkeellä!
 ```
 
-# MITÄ TÄSSÄ TAPAHTUU?
+### Mitä tässä tapahtuu?
 
 -	**class Auto**: määrittää uuden luokan nimeltä Auto
 
@@ -58,12 +71,10 @@ Toyota vuodelta 2020 on nyt liikkeellä!
 
 -	**self** viittaa aina kyseiseen olioon itseensä
 
--	**auto1** ja **auto2** ovat _Auto_-luokan yksittäisiä ilmentymiä eli olioita 
+-	**auto1** ja **auto2** ovat _Auto_-luokan yksittäisiä ilmentymiä eli olioita 
 
 
-# @DATACLASS – HELPPO TAPA LUODA OLIOITA
-
-Pythonissa on valmiina @dataclass, joka tekee luokkien kirjoittamisesta helpompaa, jos ne sisältävät vain tietoa.
+## @dataclass – helppo tapa luoda olioitaPythonissa on valmiina @dataclass, joka tekee luokkien kirjoittamisesta helpompaa, jos ne sisältävät vain tietoa.
 Dataclass luo automaattisesti mm. init, repr ja eq -metodit puolestasi:
 
 ```Python
@@ -84,12 +95,11 @@ Henkilö(nimi=’Maija’, ikä=25)
 ```
 
 💡Et siis tarvitse erikseen __init__ -metodia – dataclass tekee sen automaattisesti!
- 
+ 
 
-# CLASS ESIMERKKI: TIMESTAMP
-Tämä luokka mallintaa yksinkertaista aikaleimaa:
+## Class esimerkki: Timestamp
 
-```Python
+Tämä luokka mallintaa yksinkertaista aikaleimaa:```Python
 from datetime import datetime
 
 class Timestamp:
@@ -108,7 +118,7 @@ Tulostaa:
 Aikaleima: 2025-11-08 21:08:26.755381   ( eli juuri sen hetkinen aika )
 ```
 
-# MIKSI OLIOITA KANNATTAA KÄYTTÄÄ?
+## Miksi olioita kannattaa käyttää?
 
 -	Yhdistää tiedon ja toiminnan samaan kokonaisuuteen
 
@@ -119,7 +129,7 @@ Aikaleima: 2025-11-08 21:08:26.755381   ( eli juuri sen hetkinen aika )
 -	Vähentää virheitä ja parantaa koodin rakennetta suurissa projekteissa
 
 
-# OLIOT, FUNKTIOT JA MODUULIT
+## Oliot, funktiot ja moduulit
 
 | RAKENNE  | TARKOITUS   |
 |-------------|-------------|
@@ -127,10 +137,8 @@ Aikaleima: 2025-11-08 21:08:26.755381   ( eli juuri sen hetkinen aika )
 | Class / olio   | Yhdistää tehtäviä ja tietoa yhteen pakettiin|
 | Moduuli (tiedosto) | Kokoaa useita luokkia ja funktioita yhteen ohjelmaan|
 
- 
-# YHTEENVETO
-
-**Oliot ovat ohjelmoinnin rakennuspalikoita**¸ joiden avulla:
+ 
+## Yhteenveto**Oliot ovat ohjelmoinnin rakennuspalikoita**¸ joiden avulla:
 -	Yhdistää tieto ja toiminta
 
 -	hallitaan suuria kokonaisuuksia järkevästi
