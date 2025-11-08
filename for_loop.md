@@ -123,6 +123,6 @@ For-silmukka on ohjelmoinnin **perustyökalu**, joka auttaa:
 - kirjoittamaan selkeämpää ja tehokkaampaa koodia
 
 
-##MUISTA
+## MUISTA
 
 Jos sinun täytyy tehdä jotain "monta kertaa" for-loop on usein paras ratkaisu!
