@@ -43,7 +43,7 @@ appelsiini
 ```
 Tässä silmukka käy siis listan läpi **alkion kerrallaan** ja suorittaa print-komennon jokaiselle.
 
-## _MERKKIJOHON LÄPIKÄYNTI_
+## _MERKKIJONON LÄPIKÄYNTI_
 ```Python
 sana = "Python"
 for kirjain in sana:
