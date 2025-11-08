@@ -142,7 +142,9 @@ Aikaleima: 2025-11-08 21:08:26.755381   ( eli juuri sen hetkinen aika )
 | Moduuli (tiedosto) | Kokoaa useita luokkia ja funktioita yhteen ohjelmaan|
 
  
-## Yhteenveto**Oliot ovat ohjelmoinnin rakennuspalikoita**¸ joiden avulla:
+## Yhteenveto
+
+**Oliot ovat ohjelmoinnin rakennuspalikoita**¸ joiden avulla:
 -	Yhdistää tieto ja toiminta
 
 -	hallitaan suuria kokonaisuuksia järkevästi
