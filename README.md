@@ -9,7 +9,7 @@ Lyhyt oppimateriaali Pythonin perusteista. Materiaali on tarkoitettu itseopiskel
 - [04 — Oliot (luokat ja instanssit)](04-oliot.md)
 
 ## Tavoite
-Tarjota selkeät, lyhyet esimerkit ja harjoitustehtävät, joiden avulla oppii:
+Tarjota selkeät ja lyhyet esimerkit, joiden avulla oppii:
 - toistot (for, while)
 - funktioiden määrittely ja käyttö
 - perusoliot: luokan määrittely, __init__ ja metodit
