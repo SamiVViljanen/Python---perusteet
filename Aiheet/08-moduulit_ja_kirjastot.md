@@ -347,3 +347,5 @@ Moduulit tekevät ohjelmistasi:
 - **Helpomman ylläpitää** - muutokset on helppo tehdä yhteen paikkaan
 
 Jos tarvitset samaa koodia useassa paikassa, luo siitä moduuli!
+
+Onnea ohjelmointiin! 📚

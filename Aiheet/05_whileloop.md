@@ -157,3 +157,5 @@ While-silmukka on toistorakenne, joka jatkuu niin kauan kuin ehto on tosi. Se an
 
 
 💡Muista: käytä for-silmukkaa, kun tiedät toistojen määrän – ja while-silmukkaa, kun toisto riippuu ehdosta!
+
+Onnea ohjelmointii! 🐍

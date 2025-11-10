@@ -155,3 +155,4 @@ Aikaleima: 2025-11-08 21:08:26.755381   ( eli juuri sen hetkinen aika )
 Käytä @Dataclass, kun haluat nopeasti ja helposti tietoa sisältävän olion ilman turhaa koodia
 
 
+Onnea ohjelmointiin! 👽

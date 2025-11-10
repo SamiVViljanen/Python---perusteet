@@ -1052,4 +1052,4 @@ finally:
 
 Muista: Hyvä ohjelma **epäonnistuu elegantisti** - se kertoo käyttäjälle mitä tapahtui ja miten jatkaa!
 
-🚀 Onnea ohjelmointiin!
+Onnea ohjelmointiin! 🚀

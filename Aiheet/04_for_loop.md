@@ -140,3 +140,5 @@ For-silmukka on ohjelmoinnin **perustyökalu**, joka auttaa:
 ### Muista
 
 Jos sinun täytyy tehdä jotain "monta kertaa" for-loop on usein paras ratkaisu!
+
+Onnea ohjelmointiin! ➰

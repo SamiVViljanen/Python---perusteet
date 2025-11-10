@@ -893,3 +893,5 @@ Kun hallitset NumPy:n, voit oppia:
 - **Scikit-learn** - Koneoppiminen
 
 NumPy on pohja näille kaikille! 🚀
+
+Onnea ohjelmointiin! 🤖

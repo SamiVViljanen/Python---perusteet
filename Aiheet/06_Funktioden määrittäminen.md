@@ -71,3 +71,5 @@ main()-funktio on käytännön tapa kertoa:
 Tämä rakenne tekee koodista selkeän, turvallisen ja helpommin hallittavan, etenkin kun ohjelmat kasvavat pidemmiksi.
 
 **def main()** ei siis ole pakollinen Pythonissa, mutta se on **vahva suositus** ja ammattikäytäntö.
+
+Onnea ohjelmointiin! 🚀

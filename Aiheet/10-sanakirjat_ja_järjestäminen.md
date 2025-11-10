@@ -889,3 +889,5 @@ dict.items(), key=lambda x: x[1])      # Sanakirja: arvon mukaan
 5. **Opiskelijan keskiarvo**: Tallenna opiskelijan arvosanat sanakirjaan ja laske keskiarvo
 
 Muista: Oikean tietorakenteen valinta tekee koodista selkeämpää ja tehokkaampaa! 🚀
+
+Onnea ohjelmointiin! 🐍
