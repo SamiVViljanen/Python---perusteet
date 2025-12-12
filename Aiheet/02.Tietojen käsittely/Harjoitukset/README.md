@@ -30,7 +30,7 @@ True
 
 💡 **Vinkki:** `type()` palauttaa muuttujan tietotyypin.
 
-📝 **Tiedosto:** [Harjoitus 1/](Harjoitus%201/) | [harjoitus1.md](Harjoitus%201/harjoitus1.md) | [harjoitus1.py](Harjoitus%201/harjoitus1.py)
+📝 **Tiedosto:** [Harjoitus 1/](Harjoitus%201/) | [harjoitus1.py](Harjoitus%201/harjoitus1.py)
 
 ---
 
@@ -55,7 +55,7 @@ Kahden tuotteen hinta: 39.98€
 
 💡 **Vinkki:** `input()` palauttaa aina merkkijonon, joten muunnokset ovat välttämättömiä.
 
-📝 **Tiedosto:** [Harjoitus 2/](Harjoitus%202/) | [harjoitus2.md](Harjoitus%202/harjoitus2.md) | [harjoitus2.py](Harjoitus%202/harjoitus2.py)
+📝 **Tiedosto:** [Harjoitus 2/](Harjoitus%202/) |  [harjoitus2.py](Harjoitus%202/harjoitus2.py)
 
 ---
 
@@ -83,7 +83,7 @@ Kahden desimaalin tarkkuudella: 4.38
 - `round(luku, 2)` pyöristää kahteen desimaaliin
 - `math.ceil()` pyöristää ylös, `math.floor()` pyöristää alas
 
-📝 **Tiedosto:** [Harjoitus 3/](Harjoitus%203/) | [harjoitus3.md](Harjoitus%203/harjoitus3.md) | [harjoitus3.py](Harjoitus%203/harjoitus3.py)
+📝 **Tiedosto:** [Harjoitus 3/](Harjoitus%203/) | [harjoitus3.py](Harjoitus%203/harjoitus3.py)
 
 ---
 
@@ -113,7 +113,7 @@ Käänteinen: moc.elpmaxe@ittam
 - `teksti[-1]` antaa viimeisen merkin
 - `teksti[::-1]` kääntää merkkijonon
 
-📝 **Tiedosto:** [Harjoitus 4/](Harjoitus%204/) | [harjoitus4.md](Harjoitus%204/harjoitus4.md) | [harjoitus4.py](Harjoitus%204/harjoitus4.py)
+📝 **Tiedosto:** [Harjoitus 4/](Harjoitus%204/) | [harjoitus4.py](Harjoitus%204/harjoitus4.py)
 
 ---
 
@@ -142,7 +142,7 @@ Paino pyöristettynä: 63.46 kg
 - Muotoilu: `f"{luku:.2f}"` kahden desimaalin tarkkuudella
 - `f"{luku:.0f}"` kokonaisluvuksi
 
-📝 **Tiedosto:** [Harjoitus 5/](Harjoitus%205/) | [harjoitus5.md](Harjoitus%205/harjoitus5.md) | [harjoitus5.py](Harjoitus%205/harjoitus5.py)
+📝 **Tiedosto:** [Harjoitus 5/](Harjoitus%205/) | [harjoitus5.py](Harjoitus%205/harjoitus5.py)
 
 ---
 
@@ -173,7 +173,7 @@ Summa: 45.00
 - Most-recent holder: `suurin = luku1`, sitten vertaa `if luku > suurin:`
 - Transformation: `f"{summa:.2f}"`
 
-📝 **Tiedosto:** [Harjoitus 6/](Harjoitus%206/) | [harjoitus6.md](Harjoitus%206/harjoitus6.md) | [harjoitus6.py](Harjoitus%206/harjoitus6.py)
+📝 **Tiedosto:** [Harjoitus 6/](Harjoitus%206/) | [harjoitus6.py](Harjoitus%206/harjoitus6.py)
 
 ---
 
