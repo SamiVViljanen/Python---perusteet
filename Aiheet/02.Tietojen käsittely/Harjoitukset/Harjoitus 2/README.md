@@ -18,4 +18,4 @@ Anna tuotteen hinta: 19.99
 Kahden tuotteen hinta: 39.98€
 ```
 
-📝 **Tiedosto:** `harjoitus2.py`
+📝 **Tiedosto:** [Harjoitus 2](harjoitus2.py)

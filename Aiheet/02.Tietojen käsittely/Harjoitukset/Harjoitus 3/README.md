@@ -19,4 +19,4 @@ Alas: 4
 Kahden desimaalin tarkkuudella: 4.38
 ```
 
-📝 **Tiedosto:** `harjoitus3.py`
+📝 **Tiedosto:** [Harjoitus 3](harjoitus3.py)

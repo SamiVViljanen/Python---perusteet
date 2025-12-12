@@ -11,3 +11,6 @@ Harjoittele useamman muuttujan käsittelyä ja laskutoimituksia
 3. Laske 24% ALV (transformation)
 4. Laske loppusumma (hinta + ALV)
 5. Tulosta tulokset
+
+
+📝 **Tiedosto:** [Harjoitus 3](harjoitus3.py)

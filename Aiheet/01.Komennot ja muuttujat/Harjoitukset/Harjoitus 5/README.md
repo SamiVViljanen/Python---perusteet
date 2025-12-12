@@ -11,3 +11,5 @@ Yhdistä kaikki opitut taidot
 3. Muunna pituus metreiksi
 4. Laske BMI
 5. Tulosta BMI yhden desimaalin tarkkuudella
+
+📝 **Tiedosto:** [Harjoitus 5](harjoitus5.py)

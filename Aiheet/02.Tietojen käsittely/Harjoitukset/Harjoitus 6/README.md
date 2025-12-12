@@ -21,4 +21,4 @@ Suurin luku: 20
 Summa: 45.00
 ```
 
-📝 **Tiedosto:** `harjoitus6.py`
+📝 **Tiedosto:** [Harjoitus 6](harjoitus6.py)

@@ -13,3 +13,5 @@ Muista:
 3. Laske minuutit (jäljelle jäävistä sekunneista)
 4. Laske sekunnit (loppu)
 5. Tulosta tulos muodossa: "X tuntia, Y minuuttia ja Z sekuntia"
+
+📝 **Tiedosto:** [Harjoitus 4](harjoitus4.py)

@@ -10,4 +10,4 @@ Harjoittele input()- ja print()-funktioiden käyttöä
 2. Kysy käyttäjältä hänen ikänsä (muista muuntaa int-tyypiksi)
 3. Tulosta tervehdys muodossa: "Hei [nimi]! Olet [ikä] vuotta vanha."
 
-[Harjoitus1](harjoitus1.py)
+📝 **Tiedosto:** [Harjoitus 1](harjoitus1.py)

@@ -26,4 +26,4 @@ Tulostuksen tulisi näyttää:
 <class 'bool'>
 ```
 
-📝 **Tiedosto:** `harjoitus1.py`
+📝 **Tiedosto:** [Harjoitus 1](harjoitus1.py)

@@ -14,3 +14,4 @@ Harjoittele tyypin muunnoksia ja aritmeettisia operaatioita
  💡Esim: "25.0°C on 77.0°F"
  💡Tai f-stringiä hyödyntäen: f"{celcius:.1f}°C on {fahrenheit:.1f}°F"
 
+📝 **Tiedosto:** [Harjoitus 2](harjoitus2.py)

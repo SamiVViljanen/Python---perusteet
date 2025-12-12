@@ -22,4 +22,4 @@ Ikä kuukausina: 360
 Paino pyöristettynä: 63.46 kg
 ```
 
-📝 **Tiedosto:** `harjoitus5.py`
+📝 **Tiedosto:** [Harjoitus 5](harjoitus5.py)
