@@ -20,7 +20,7 @@ Anna ikäsi: 25
 Hei Matti! Olet 25 vuotta vanha.
 ```
 
-📝 **Tiedosto:** `harjoitus1.py`
+📝 **Tiedosto:** [Harjoitus 1/](Harjoitus%201/) | [harjoitus1.py](Harjoitus%201/harjoitus1.py)
 
 ---
 
@@ -41,7 +41,7 @@ Anna lämpötila Celsius-asteina: 25
 
 💡 **Vinkki:** Käytä `float()` ja f-stringiä muotoiluun: `f"{luku:.1f}"`
 
-📝 **Tiedosto:** `harjoitus2.py`
+📝 **Tiedosto:** [Harjoitus 2/](Harjoitus%202/) | [harjoitus2.py](Harjoitus%202/harjoitus2.py)
 
 ---
 
@@ -67,7 +67,7 @@ Loppusumma: 34.47€
 
 💡 **Vinkki:** ALV lasketaan: `yhteishinta * 0.24`
 
-📝 **Tiedosto:** `harjoitus3.py`
+📝 **Tiedosto:** [Harjoitus 3/](Harjoitus%203/) | [harjoitus3.py](Harjoitus%203/harjoitus3.py)
 
 ---
 
@@ -91,7 +91,7 @@ Anna sekuntien määrä: 3665
 - 1 minuutti = 60 sekuntia
 - Käytä `//` ja `%` operaattoreita
 
-📝 **Tiedosto:** `harjoitus4.py`
+📝 **Tiedosto:** [Harjoitus 4/](Harjoitus%204/) | [harjoitus4.py](Harjoitus%204/harjoitus4.py)
 
 ---
 
@@ -117,7 +117,7 @@ BMI-indeksisi on 24.5
 - Käytä `**` potenssilaskuun
 - Muotoile tulos: `f"{bmi:.1f}"`
 
-📝 **Tiedosto:** `harjoitus5.py`
+📝 **Tiedosto:** [Harjoitus 5/](Harjoitus%205/) | [harjoitus5.py](Harjoitus%205/harjoitus5.py)
 
 ---
 
