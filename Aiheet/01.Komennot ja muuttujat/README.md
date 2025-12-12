@@ -13,7 +13,8 @@
 
 ---
 
-Tässä lyhyt opas Pythonin peruskomennoista (lauseista) ja muuttujista. Materiaalissa on selkeät esimerkit ja odotetut tulosteet.
+Tämä materiaali on tarkoitettu Pythonin ja ohjelmoinnin täysin aloittelijoille.
+Erityisesti opiskelijoille, joille Python on ensimmäinen kosketus ohjelmointiin.
 
 ## Mikä on muuttuja?
 
@@ -52,7 +53,7 @@ print("Hei", nimi)
 
 ## Aritmeettiset operaatiot ja muut operaattorit
 
-Perusoperaattorit : `+`. `-`, `*`. `/` (liukujako), `//`(kokonaislukujako), `%`(jäännös), `**` (potenssi)
+Perusoperaattorit : `+`,`-`, `*`,`/` (liukujako), `//`(kokonaislukujako), `%`(jäännös), `**` (potenssi)
 
 ```python
 a = 7
@@ -64,6 +65,10 @@ print(a % b)  # 1
 print(a * b)  # 14
 print(a ** b) # 49
 ```
+
+💡 Kokeile itse:
+Muuta muuttujan arvoa ja katso, miten tuloste muuttuu.
+
 
 ## Lyhennetyt sijoitukset
 
@@ -88,8 +93,8 @@ t = str(42)    # "42"
 
 Yhden rivin kommentti: `# Tämä on kommentti`
 
-Monirivinen teksti dokumentaatiossa on usein docstring:
-kolminkertainen lainausmerkki (ei korvaa kommentteja koodissa).
+Monirivinen teksti dokumentaatiossa on usein docstring.
+Docstringejä käytetään erityisesti funktioiden ja moduulien dokumentointiin.
 
 ```python
 x = 5  # tässä on kommentti
@@ -99,7 +104,7 @@ x = 5  # tässä on kommentti
 
 ## Yleisiä virheitä ja sudenkuoppia
 
-- Yritä käyttää `==`vertailuun ja `=`sijoitukseen (mutta älä sekoita niitä).
+- Käytä `==' vertailuun ja '=' sijoitukseen (älä sekoita niitä).
 
 - Muuttujan käyttö ennen kuin se on määritelty aiheuttaa virheen (NameError)
 
@@ -112,10 +117,14 @@ x = 5  # tässä on kommentti
 # Kysy käyttäjän ikä ja kerro syntymävuosi
 
 ika = int(input("Kuinka vanha olet? "))
-vuosi = 2025 - ika
+vuosi = 2025 - ika   # Oletetaan nykyinen vuosi
 print(f"Sinä olet syntynyt vuonna {vuosi}.")
 ```
 
 Odotettu toiminta:
 - käyttäjä kirjoittaa esimerkiksi `30`
 - Ohjelma tulostaa `Sinä olet syntynyt vuonna 1995.`
+
+
+## Seuraavaksi
+Siirry [Harjoitukset](Harjoitukset/)-kansioon ja tee luvun tehtävät.
