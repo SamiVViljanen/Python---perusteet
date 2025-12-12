@@ -1,4 +1,4 @@
-# Harjoitus 3: Ostoslaskuri
+# Harjoitus 3: Ostoslaskuri (⭐⭐ Keskitaso)
 
 
 ## Tavoite

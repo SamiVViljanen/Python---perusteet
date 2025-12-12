@@ -1,4 +1,4 @@
-# Harjoitus 1: Tervehdys
+# Harjoitus 1: Tervehdys (⭐ Helppo)
 
 ## Tavoite
 Harjoittele input()- ja print()-funktioiden käyttöä

@@ -1,4 +1,4 @@
-# Harjoitus 4: Sekuntien muunnos
+# Harjoitus 4: Sekuntien muunnos (⭐⭐⭐ Keskitaso)
 
 ## Tavoite
 Harjoittele kokonaisjakolaskua (//) ja jakojäännöstä (%)

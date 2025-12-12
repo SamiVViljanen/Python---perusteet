@@ -1,4 +1,4 @@
-# Harjoitus 2: Lämpötilan muunnos
+# Harjoitus 2: Lämpötilan muunnos (⭐⭐ Helppo)
 
 ## Tavoite
 Harjoittele tyypin muunnoksia ja aritmeettisia operaatioita

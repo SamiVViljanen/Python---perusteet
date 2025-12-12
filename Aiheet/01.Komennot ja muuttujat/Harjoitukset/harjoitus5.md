@@ -1,4 +1,4 @@
-# Harjoitus 5: BMI-laskuri
+# Harjoitus 5: BMI-laskuri (⭐⭐⭐ Keskitaso)
 
 ## Tavoite
 Yhdistä kaikki opitut taidot
