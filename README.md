@@ -30,7 +30,7 @@ Ennen aloittamista tarvitset:
 | Aihe | Kuvaus | Mitä opit |
 |------|--------|-----------|
 | [1. Komennot ja muuttujat](Aiheet/01.Komennot%20ja%20muuttujat/) | Pythonin perusteet | Print, input, muuttujat, tietotyypit |
-| [2. Tietojen käsittely](Aiheet/02_tietojen_kasittely.md) | Datan manipulointi | Listat, merkkijonot, operaatiot |
+| [2. Tietojen käsittely](Aiheet/02.Tietojen%20käsittely/) | Datan manipulointi | Listat, merkkijonot, operaatiot |
 | [3. Ehtolauseet](Aiheet/03-ehtolauseet.md) | Päätöksenteko | if, elif, else, loogiset operaattorit |
 | [4. For-silmukka](Aiheet/04_for_loop.md) | Toistot | for, range, iterointi |
 | [5. While-silmukka](Aiheet/05_whileloop.md) | Ehdolliset toistot | while, break, continue |

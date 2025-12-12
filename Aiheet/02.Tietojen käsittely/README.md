@@ -568,5 +568,7 @@ print("=" * 40)
 6. **F-stringit**: `f"{muuttuja}"` - moderni ja selkeä muotoilutapa
 7. **Muuttujien roolit**: Ymmärrä, miksi muuttuja on olemassa - helpottaa koodin lukemista
 
+## Seuraavaksi
+Siirry [Harjoitukset](Harjoitukset/)-kansioon ja tee luvun tehtävät.
 
 Onnea ohjelmointiin! 🐍
