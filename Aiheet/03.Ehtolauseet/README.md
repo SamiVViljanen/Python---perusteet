@@ -693,16 +693,5 @@ else:
 - ✅ Käytä `.lower()` merkkijonojen vertailussa
 - ✅ Muunna `input()` oikeaan tietotyyppiin
 
-### Harjoitustehtäviä:
-
-1. **Lämpötilamuunnin**: Tee ohjelma, joka muuntaa Celsius-asteet Fahrenheit-asteiksi ja kertoo, onko lämpötila jäätymispiste alapuolella
-
-2. **Ikälaskuri**: Kysy syntymävuosi ja kerro käyttäjän ikä sekä mihin ikäryhmään hän kuuluu (lapsi, nuori, aikuinen, eläkeläinen)
-
-3. **Salasanan vahvuus**: Tarkista salasanan vahvuus (pituus, erikoismerkit, numerot) ja anna palaute
-
-4. **Kivi-Sakset-Paperi**: Tee peli, jossa käyttäjä pelaa tietokonetta vastaan
-
-5. **Ruokalista**: Kysy päivämäärä ja kerro, mitä koulun/työpaikan ruokalassa on lounaaksi (käytä viikonpäivää)
-
-Onnea ohjelmointiin! 🚀
+## Seuraavaksi
+Siirry [Harjoitukset](Harjoitukset/)-kansioon ja tee luvun tehtävät.
