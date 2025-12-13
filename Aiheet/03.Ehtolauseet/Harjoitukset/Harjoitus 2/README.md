@@ -21,4 +21,4 @@ Arvosana: Hyvä
 
 💡 **Vinkki:** Käytä `elif` useille vaihtoehdoille. Aloita suurimmasta!
 
-📝 **Tiedosto:** `harjoitus2.py`
+📝 **Tiedosto:** [Harjoitus 2](harjoitus2.py)

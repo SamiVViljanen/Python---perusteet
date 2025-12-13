@@ -31,7 +31,7 @@ Ennen aloittamista tarvitset:
 |------|--------|-----------|
 | [1. Komennot ja muuttujat](Aiheet/01.Komennot%20ja%20muuttujat/) | Pythonin perusteet | Print, input, muuttujat, tietotyypit |
 | [2. Tietojen käsittely](Aiheet/02.Tietojen%20käsittely/) | Datan manipulointi | Listat, merkkijonot, operaatiot |
-| [3. Ehtolauseet](Aiheet/03-ehtolauseet.md) | Päätöksenteko | if, elif, else, loogiset operaattorit |
+| [3. Ehtolauseet](Aiheet/03.Ehtolauseet/) | Päätöksenteko | if, elif, else, loogiset operaattorit |
 | [4. For-silmukka](Aiheet/04_for_loop.md) | Toistot | for, range, iterointi |
 | [5. While-silmukka](Aiheet/05_whileloop.md) | Ehdolliset toistot | while, break, continue |
 
@@ -158,4 +158,4 @@ Valitse oppimispolkusi ja aloita ensimmäisestä aiheesta:
 
 ---
 
-*Viimeksi päivitetty: Marraskuu 2025*
+*Viimeksi päivitetty: Joulukuu 2025*

@@ -24,4 +24,4 @@ Luku 7 on pariton
 - Parillinen luku: `luku % 2 == 0`
 - Pariton luku: `luku % 2 == 1` tai `luku % 2 != 0`
 
-📝 **Tiedosto:** `harjoitus3.py`
+📝 **Tiedosto:** [Harjoitus 3](harjoitus3.py)

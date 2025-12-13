@@ -21,4 +21,4 @@ Lämmin - Hyvä sää kävelylle!
 
 💡 **Vinkki:** Käytä `elif`-rakenteita ja aloita suurimmasta lämpötilasta.
 
-📝 **Tiedosto:** `harjoitus4.py`
+📝 **Tiedosto:** [Harjoitus 4](harjoitus4.py)

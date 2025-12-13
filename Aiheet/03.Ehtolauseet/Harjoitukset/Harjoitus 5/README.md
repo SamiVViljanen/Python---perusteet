@@ -36,4 +36,4 @@ Sekä käyttäjätunnus että salasana ovat väärin
 - Käytä `and` operaattoria: `if tunnus == oikea_tunnus and salasana == oikea_salasana:`
 - Voit myös käyttää sisäkkäisiä if-lauseita
 
-📝 **Tiedosto:** `harjoitus5.py`
+📝 **Tiedosto:** [Harjoitus 5](harjoitus5.py)
