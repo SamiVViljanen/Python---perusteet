@@ -148,3 +148,6 @@ Kun hallitset nämä harjoitukset:
 3. ✅ Siirry seuraavaan lukuun: **Ehtolauseet**
 
 Hienoa työtä! 🎉
+
+
+➡️**Seuraavaksi:** [Aihe 03 - Ehtolauseet](../../03.Ehtolauseet/)

@@ -349,4 +349,4 @@ while arvaus != 7:
 
 Hienoa työtä! Olet nyt oppinut while-silmukoiden perusteet. 🎉
 
-**Seuraavaksi:** Aihe 06 - Funktioiden määrittäminen
+➡️**Seuraavaksi:** [Aihe 06 - Funktioiden määrittäminen](../../06.Funktioiden%20määrittäminen/)

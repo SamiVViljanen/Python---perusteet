@@ -102,3 +102,5 @@ Kun hallitset nämä harjoitukset:
 3. ✅ Siirry seuraavaan lukuun: **Ehtolauseet**
 
 Hienoa työtä! 🎉
+
+➡️**Seuraavaksi:** [Aihe 02 - Tietojen käsittely](../../02.Tietojen%20käsittely/)

@@ -206,3 +206,5 @@ Kun hallitset nämä harjoitukset:
 3. ✅ Siirry seuraavaan lukuun: **For-silmukat**
 
 Hienoa työtä! 🎉
+
+➡️**Seuraavaksi:** [Aihe 04 - For-silmukka](../../04.For-silmukka/)

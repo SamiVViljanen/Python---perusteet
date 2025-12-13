@@ -288,3 +288,6 @@ Kun hallitset nämä harjoitukset:
 3. ✅ Siirry seuraavaan lukuun: **While-silmukat**
 
 Hienoa työtä! 🎉
+
+
+➡️**Seuraavaksi:** [Aihe 05 - While-silmukka](../../05.While-silmukka/)

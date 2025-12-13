@@ -154,7 +154,7 @@ GitHub: [@SamiVViljanen](https://github.com/SamiVViljanen)
 
 Valitse oppimispolkusi ja aloita ensimmäisestä aiheesta:
 
-**[👉 1. Komennot ja muuttujat →](Aiheet/01-komennot_ja_muuttujat.md)**
+**[👉 1. Komennot ja muuttujat →](Aiheet/01.Komennot%20ja%20muuttujat/)**
 
 ---
 
