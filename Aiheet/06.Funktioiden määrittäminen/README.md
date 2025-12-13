@@ -72,4 +72,5 @@ Tämä rakenne tekee koodista selkeän, turvallisen ja helpommin hallittavan, et
 
 **def main()** ei siis ole pakollinen Pythonissa, mutta se on **vahva suositus** ja ammattikäytäntö.
 
-Onnea ohjelmointiin! 🚀
+## Seuraavaksi
+Siirry [Harjoitukset](Harjoitukset/)-kansioon ja tee luvun tehtävät.

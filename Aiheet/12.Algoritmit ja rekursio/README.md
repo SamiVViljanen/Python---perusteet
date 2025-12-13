@@ -1052,4 +1052,5 @@ print(f"Aika: {time.time() - alku:.6f}s")
 
 Muista: Paras algoritmi riippuu ongelmasta - ei ole yhtä "parasta" ratkaisua kaikkeen! 🚀
 
-Onnea ohjelmointiin! 🐍
+## Seuraavaksi
+Siirry [Harjoitukset](Harjoitukset/)-kansioon ja tee luvun tehtävät.

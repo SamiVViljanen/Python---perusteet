@@ -348,4 +348,5 @@ Moduulit tekevät ohjelmistasi:
 
 Jos tarvitset samaa koodia useassa paikassa, luo siitä moduuli!
 
-Onnea ohjelmointiin! 📚
+## Seuraavaksi
+Siirry [Harjoitukset](Harjoitukset/)-kansioon ja tee luvun tehtävät.

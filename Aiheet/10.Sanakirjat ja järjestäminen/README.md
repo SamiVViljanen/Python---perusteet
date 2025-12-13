@@ -890,4 +890,5 @@ dict.items(), key=lambda x: x[1])      # Sanakirja: arvon mukaan
 
 Muista: Oikean tietorakenteen valinta tekee koodista selkeämpää ja tehokkaampaa! 🚀
 
-Onnea ohjelmointiin! 🐍
+## Seuraavaksi
+Siirry [Harjoitukset](Harjoitukset/)-kansioon ja tee luvun tehtävät.

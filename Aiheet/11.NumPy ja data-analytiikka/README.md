@@ -894,4 +894,5 @@ Kun hallitset NumPy:n, voit oppia:
 
 NumPy on pohja näille kaikille! 🚀
 
-Onnea ohjelmointiin! 🤖
+## Seuraavaksi
+Siirry [Harjoitukset](Harjoitukset/)-kansioon ja tee luvun tehtävät.
