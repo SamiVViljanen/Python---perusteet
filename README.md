@@ -32,25 +32,25 @@ Ennen aloittamista tarvitset:
 | [1. Komennot ja muuttujat](Aiheet/01.Komennot%20ja%20muuttujat/) | Pythonin perusteet | Print, input, muuttujat, tietotyypit |
 | [2. Tietojen käsittely](Aiheet/02.Tietojen%20käsittely/) | Datan manipulointi | Listat, merkkijonot, operaatiot |
 | [3. Ehtolauseet](Aiheet/03.Ehtolauseet/) | Päätöksenteko | if, elif, else, loogiset operaattorit |
-| [4. For-silmukka](Aiheet/04_for_loop.md) | Toistot | for, range, iterointi |
-| [5. While-silmukka](Aiheet/05_whileloop.md) | Ehdolliset toistot | while, break, continue |
+| [4. For-silmukka](Aiheet/04.For-silmukka/) | Toistot | for, range, iterointi |
+| [5. While-silmukka](Aiheet/05.While-silmukka/) | Ehdolliset toistot | while, break, continue |
 
 ### Keskitaso (Aiheet 6-9)
 
 | Aihe | Kuvaus | Mitä opit |
 |------|--------|-----------|
-| [6. Funktiot](Aiheet/06_Funktioden%20määrittäminen.md) | Koodin uudelleenkäyttö | def, parametrit, return, lambda |
-| [7. Oliot](Aiheet/07_oliot.md) | Olioohjelmointi | Luokat, metodit, \_\_init\_\_, @dataclass |
-| [8. Moduulit ja kirjastot](Aiheet/08-moduulit_ja_kirjastot.md) | Koodin organisointi | import, omat moduulit, kirjastot |
-| [9. Poikkeukset](Aiheet/09-poikkeukset.md) | Virheiden käsittely | try-except-finally, virhetyypit |
+| [6. Funktiot](Aiheet/06.Funktioiden%20määrittäminen/) | Koodin uudelleenkäyttö | def, parametrit, return, lambda |
+| [7. Oliot](Aiheet/07.Oliot/) | Olioohjelmointi | Luokat, metodit, \_\_init\_\_, @dataclass |
+| [8. Moduulit ja kirjastot](Aiheet/08.Moduulit%20ja%20kirjastot/) | Koodin organisointi | import, omat moduulit, kirjastot |
+| [9. Poikkeukset](Aiheet/09.Poikkeukset/) | Virheiden käsittely | try-except-finally, virhetyypit |
 
 ### Edistynyt (Aiheet 10-12)
 
 | Aihe | Kuvaus | Mitä opit |
 |------|--------|-----------|
-| [10. Sanakirjat ja järjestäminen](Aiheet/10-sanakirjat_ja_järjestäminen.md) | Tietorakenteet | dict, tuple, sorted, lambda |
-| [11. NumPy ja data-analytiikka](Aiheet/11-numpy_ja_data-analytiikka.md) | Numeerinen laskenta | Taulukot, matriisit, tilastot |
-| [12. Algoritmit ja rekursio](Aiheet/12-algoritmit_ja_rekursio.md) | Ongelmanratkaisu | Pseudokoodi, rekursio, tehokkuus |
+| [10. Sanakirjat ja järjestäminen](Aiheet/10.Sanakirjat%20ja%20järjestäminen/) | Tietorakenteet | dict, tuple, sorted, lambda |
+| [11. NumPy ja data-analytiikka](Aiheet/11.NumPy%20ja%20data-analytiikka/) | Numeerinen laskenta | Taulukot, matriisit, tilastot |
+| [12. Algoritmit ja rekursio](Aiheet/12.Algoritmit%20ja%20rekursio/) | Ongelmanratkaisu | Pseudokoodi, rekursio, tehokkuus |
 
 ## 🎯 Oppimispolut
 
