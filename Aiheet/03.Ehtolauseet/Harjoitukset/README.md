@@ -27,7 +27,7 @@ Olet alaikäinen
 
 💡 **Vinkki:** Käytä vertailuoperaattoria `>=`
 
-📝 **Tiedosto:** [Harjoitus 1/](Harjoitus%201/) | [harjoitus1.md](Harjoitus%201/harjoitus1.md) | [harjoitus1.py](Harjoitus%201/harjoitus1.py)
+📝 **Tiedosto:** [Harjoitus 1/](Harjoitus%201/) | [harjoitus1.py](Harjoitus%201/harjoitus1.py)
 
 ---
 
@@ -53,7 +53,7 @@ Arvosana: Hyvä
 
 💡 **Vinkki:** Käytä `elif` useille vaihtoehdoille. Aloita suurimmasta!
 
-📝 **Tiedosto:** [Harjoitus 2/](Harjoitus%202/) | [harjoitus2.md](Harjoitus%202/harjoitus2.md) | [harjoitus2.py](Harjoitus%202/harjoitus2.py)
+📝 **Tiedosto:** [Harjoitus 2/](Harjoitus%202/) | [harjoitus2.py](Harjoitus%202/harjoitus2.py)
 
 ---
 
@@ -82,7 +82,7 @@ Luku 7 on pariton
 - Parillinen luku: `luku % 2 == 0`
 - Pariton luku: `luku % 2 == 1` tai `luku % 2 != 0`
 
-📝 **Tiedosto:** [Harjoitus 3/](Harjoitus%203/) | [harjoitus3.md](Harjoitus%203/harjoitus3.md) | [harjoitus3.py](Harjoitus%203/harjoitus3.py)
+📝 **Tiedosto:** [Harjoitus 3/](Harjoitus%203/) | [harjoitus3.py](Harjoitus%203/harjoitus3.py)
 
 ---
 
@@ -108,7 +108,7 @@ Lämmin - Hyvä sää kävelylle!
 
 💡 **Vinkki:** Käytä `elif`-rakenteita ja aloita suurimmasta lämpötilasta.
 
-📝 **Tiedosto:** [Harjoitus 4/](Harjoitus%204/) | [harjoitus4.md](Harjoitus%204/harjoitus4.md) | [harjoitus4.py](Harjoitus%204/harjoitus4.py)
+📝 **Tiedosto:** [Harjoitus 4/](Harjoitus%204/) | [harjoitus4.py](Harjoitus%204/harjoitus4.py)
 
 ---
 
@@ -149,7 +149,7 @@ Sekä käyttäjätunnus että salasana ovat väärin
 - Käytä `and` operaattoria: `if tunnus == oikea_tunnus and salasana == oikea_salasana:`
 - Voit myös käyttää sisäkkäisiä if-lauseita
 
-📝 **Tiedosto:** [Harjoitus 5/](Harjoitus%205/) | [harjoitus5.md](Harjoitus%205/harjoitus5.md) | [harjoitus5.py](Harjoitus%205/harjoitus5.py)
+📝 **Tiedosto:** [Harjoitus 5/](Harjoitus%205/) | [harjoitus5.py](Harjoitus%205/harjoitus5.py)
 
 ---
 
